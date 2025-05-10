@@ -4,7 +4,6 @@ A GTK settings manager for HyDE Project's Hyprland Config. It just lists all the
 
 ![HyprControl Logo](https://www.dropbox.com/scl/fi/aa49jnj5jzk3p4402vllc/hyprcontrol.png?rlkey=s7evydc7anb4qu1nj54lcnrp1&st=58oftqv9&dl=1)
 
-
 Features:
         Lists all the Hyprland configuration files with a GTK interface
     
