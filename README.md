@@ -1,8 +1,7 @@
 
 A GTK settings manager for HyDE Project's Hyprland Config. It just lists all the settings in a tabular for which makes it a bit easier and simpler to edit. initially, I made it to manage my own HyDE config (to make things faster obv)
 
-
-![HyprControl Logo](https://www.dropbox.com/scl/fi/aa49jnj5jzk3p4402vllc/hyprcontrol.png?rlkey=s7evydc7anb4qu1nj54lcnrp1&st=58oftqv9&dl=1)
+![HyprControl Logo](icons/hyprcontrol.png)
 
 Features:
         Lists all the Hyprland configuration files with a GTK interface
