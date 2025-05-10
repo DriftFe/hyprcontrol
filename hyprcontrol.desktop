@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=HyprControl
+Exec=hyprcontrol
+Icon=hyprcontrol
+Categories=Settings;Utility;
+Terminal=false
