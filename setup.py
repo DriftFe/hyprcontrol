@@ -58,7 +58,7 @@ setup(
         "install": CustomInstall,
     },
     include_package_data=True,
-    description="Modern GTK settings manager for Hyprland",
-    author="Your Name",
+    description="A GTK settings manager for Hyprland",
+    author="Drift",
     license="MIT",
 )
